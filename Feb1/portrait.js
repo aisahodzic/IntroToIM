@@ -42,4 +42,3 @@ function setup() {
   line(190,80,220,240);
 }
 
-function draw(){ print(mouseX, mouseY);}
