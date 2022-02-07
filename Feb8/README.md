@@ -1,1 +1,3 @@
 In this assignment, I chose to work with both while() and for() loop. I first designed one zig-zag line to begin with. After I achieved wanted effect with just one line, as a collection of dots / circles, I multipled the lines using while() loop and a count of five. The most difficult part was determining the yPos, which is a variable that determines the y position of each dot. As the wanted effect was zig-zag, it was tricky to see in which direction should the next circle go and more importantly, how to represnet that in the code in the most simple and efficient way. 
+
+<img width="705" alt="artWhile" src="https://user-images.githubusercontent.com/71720380/152756187-11ac16b9-9c7f-492f-8ce2-6abf04a9ce03.png">
