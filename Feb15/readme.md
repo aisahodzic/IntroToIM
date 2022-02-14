@@ -1,6 +1,13 @@
 This assignment posed a lot of challenges in front of me. The first one was creativity - I really didn't know where to start and didn't have an inspiration for what to do. I started with going though class examples.  After that, an idea came to my mind to create a simulation of the bouncing ball game. This game involves bouncing balls and a bouncer, and after the balls touch the bouncer the will bounce off by changing their direction of travel. I have resued a part of the code from class - the example of MovingCircles. The example is from here - https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/p5jsSketches/simpleP5jsClassExample. I modified the code to include the bouncer, a reclantagle that is moving across the x-axis and balls that are scattered around.
 
-The most difficut was figuring out when balls are touching the bouncer. When worded, my wish was to make the balls change direction when they touch the bouncer. But it's easier said than done - it was hard to translate words to the code! It was hard to write the if condition, since I didn't know which values should i put as a part of condition. What helped me a lot is mouseX and mouseY positions. 
+The most difficut was figuring out when balls are touching the bouncer. When worded, my wish was to make the balls change direction when they touch the bouncer. But it's easier said than done - it was hard to translate words to the code! It was hard to write the if condition, since I didn't know which values should i put as a part of condition. What helped me a lot is mouseX and mouseY positions. Finally, the wanted code that I had the hardest time figuring out looks like the following:
+
+```
+  if ((myCircle.y >= myBouncer.posY && myCircle.y <= myBouncer.posY+myBouncer.bouncerHeight) && (myCircle.x >= myBouncer.posX && myCircle.x <= myBouncer.posX+myBouncer.bouncerWidth))  {
+    myCircle.ySpeed = -myCircle.ySpeed;
+    myCircle.color=color(random(0, 255), random(0, 255), random(0, 255));
+  }
+```
 
 To make the simualtion more interesting, I made it such that the balls change their colors each time they touch the bouncer. 
 
