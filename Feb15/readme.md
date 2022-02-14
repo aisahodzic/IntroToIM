@@ -11,9 +11,5 @@ I had a lot of fun doing this assignment, but it was hard figuring out wanted po
 
 
 
-
-
-
-
-https://user-images.githubusercontent.com/71720380/153890575-dddf2ef1-cf2d-435a-a62b-06917ab783e1.mov
+https://user-images.githubusercontent.com/71720380/153890860-794fa9e2-6225-4055-8ca1-bd78595f97a3.mov
 
