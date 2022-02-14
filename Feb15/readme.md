@@ -5,4 +5,15 @@ The most difficut was figuring out when balls are touching the bouncer. When wor
 To make the simualtion more interesting, I made it such that the balls change their colors each time they touch the bouncer. 
 
 Interest findings: Balls change the color to a random color each time they touch the bouncer. As I have run the simulation multiple times, I noticed that there are instances when the balls change the color to the color that is exacly same as the the background color so you can't see them! This is something to improve in the future. As well, I noticed that there is a couple of instances when it seems to me that the ball has touched the bouncer, but it doesn't change the direction. This happens rarely, and it usually involved the bouner edges. I wonder if is due to the high speed of the velocity, which creates illusion to the human eye that the ball touched the bouncer, but actually when you check the numbers - it's not the case. 
+
 I had a lot of fun doing this assignment, but it was hard figuring out wanted positioning actions and coding them. 
+
+
+
+
+
+
+
+
+https://user-images.githubusercontent.com/71720380/153890575-dddf2ef1-cf2d-435a-a62b-06917ab783e1.mov
+
