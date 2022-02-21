@@ -24,7 +24,7 @@ Initially, I was dealing with
 ```
   button = createButton("Race to Rewatch");
   button.position(width / 2.3, (7.5 * height) / 9);
-button.mousePressed();
+  button.mousePressed();
 ```
 but then I researched to find a note on mousePressed - https://p5js.org/reference/#/p5/mousePressed to include
 ```
@@ -34,4 +34,9 @@ would be much better since it offers me a solution of making changeDisplay as a 
 
 Another problem was that Background image issues persisted with some background images. Since I didn’t change the code, and only changed images, it might be that -5js prefers some image formats over others. This is something to look into for the next sessions. For now, I choose images that fit perfectly and those that p5js was happy with. 
 
+**Video**
+
 Lastly, here is a video of my program! Hope you enjoy and rewatch the race! 
+
+https://user-images.githubusercontent.com/71720380/154922586-b51d3895-c31a-45e7-935a-f7d894b8a840.mov
+
