@@ -25,4 +25,6 @@ The concept is hence to create a game where there is bouncer and balls. The user
 
 **Write a test program to implement the most complicated, or most unknown part of your project**
 
+Tests are attached above. 
+
 
