@@ -7,7 +7,7 @@ This is main reason why I had a lot of fun during the OOP assignment (https://gi
 The concept is hence to create a game where there is bouncer and balls. The user moves bouncer with left and right arrow key along the x-axis in order to bounce back a ball. The goal is to bounce back every ball and not let any ball touch the floor. As the game progresses, the number and speed of balls increses which makes it harder to win. The longer you stay in the game, meaning the longer you succeed in boucing back balls wihtout them touching the floor, the higher your score is. 
 
 
-**The riskiest and most complicated parts of project**
+**The most complicated parts of project**
 
 * _Starting_ the game with a button press 
 * One most complicated part of the project is _moving the bouncer while making it bounce the balls back._ 
@@ -15,7 +15,7 @@ The concept is hence to create a game where there is bouncer and balls. The user
 * Keeping the _record of the score_! This needs to be implemented in order to keep the game engaging and encourage multiple trials and user improvements when playing. 
 * _Restart the game without closing_ and restarting the program.
 
-**How I plan to  solve the riskiest and most complicated parts of my project.**
+**How I plan to  solve the most complicated parts of my project.**
 
 * I will create a button and upon button click, a new canvas will be presented with a game. This illusion will be used as a visual that represents 'entering' the game. I would need to make sure that all balls start from top border because  
 * I would need to make a program that recomputes the positions of balls and bouncer each time. With every key press, a x-position and y-posiiton value would need to be recomputed,  and bouncer's positions would need to be re-compared with each moving ball. I think this woul dbe even more complex with the increased number of balls and their increased speed. For beggining, I plan to focus on managing only moving the bouncer with left and right arrow key (no balls involved) and then will add balls, one by one ball for now. 
@@ -23,4 +23,6 @@ The concept is hence to create a game where there is bouncer and balls. The user
 * Initially I though of keeping a record of time the user stayed in the game, but I realized it would be more appropriate to count the number of times a ball is bounced back as use it as a score.  
 * When the ball falls below the bouncer's point, the game is over. However, I would need to think of the way to restart the score, and set the position of bouncer and position and the number of balls the the starting settings. 
 
-**Write a test program to implement the riskiest, most complicated, or most unknown part of your project**
+**Write a test program to implement the most complicated, or most unknown part of your project**
+
+
