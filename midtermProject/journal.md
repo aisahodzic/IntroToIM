@@ -25,6 +25,6 @@ The concept is hence to create a game where there is bouncer and balls. The user
 
 **Write a test program to implement the most complicated, or most unknown part of your project**
 
-Tests are attached above. 
+Tests are attached above in the tests.js file. More tests are to be attached as the code development progresses - as there will be new issues coming up and it will become more clear on how to precisely test a functionality.  
 
 
