@@ -9,11 +9,11 @@ The concept is hence to create a game where there is bouncer and balls. The user
 
 **The riskiest and most complicated parts of project**
 
-* Starting the game with a button press 
-* One most complicated part of the project is moving the bouncer with keys, and making it bounce the balls back. 
-* Moving the bouncer itself. If the user presses the arrow key once, it should move only by 1 pixel to that side. However, if the user keeps the arrow pressed, the bouncer should keep moving in that direction all until the button is released. 
-* Keeping the record of the score! This needs to be implemented in order to keep the game engaging and encourage multiple trials and user improvements when playing. 
-* Restart the game without closing and restarting the program.
+* _Starting_ the game with a button press 
+* One most complicated part of the project is _moving the bouncer while making it bounce the balls back._ 
+* _Moving the bouncer itself_. If the user presses the arrow key once, it should move only by 1 pixel to that side. However, if the user keeps the arrow pressed, the bouncer should keep moving in that direction all until the button is released. 
+* Keeping the _record of the score_! This needs to be implemented in order to keep the game engaging and encourage multiple trials and user improvements when playing. 
+* _Restart the game without closing_ and restarting the program.
 
 **How I plan to  solve the riskiest and most complicated parts of my project.**
 
