@@ -62,3 +62,11 @@ Another feature is score counter, which increases every time when the bouncer hi
 
 <img width="627" alt="Screen Shot 2022-03-01 at 2 33 05 PM" src="https://user-images.githubusercontent.com/71720380/156153432-cc16dd4a-5030-40e8-875f-ba633593b857.png">
 
+
+**Update** 
+
+Making a restart screen such that when the ball touches the ground, restart screen appears. Clicking the start button enables the user to restart the game - it jumps right into a new game with restarted positions, rather than initial screen with instructions. 
+
+<img width="627" alt="Screen Shot 2022-03-01 at 3 37 47 PM" src="https://user-images.githubusercontent.com/71720380/156162674-3edc476e-0db5-4aa1-af2b-e0681f3b74ed.png">
+
+
