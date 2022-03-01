@@ -35,3 +35,13 @@ The concept is hence to create a game where there is bouncer and balls. The user
 Tests are attached above in the tests.js file. More tests are to be attached as the code development progresses - as there will be new issues coming up and it will become more clear on how to precisely test a functionality.  
 
 
+**Progress**
+
+I have started with developing functionalities first, as I predict that will be a harder part. I will later choose fonts and colors to be used. 
+The first functionality I started with is adding the "Start" button, that changes Display - from initial canvas with instructions to canvas of playing the game. One of the first issues that arised is developing an idea of where to position the start and restart buttons, as the start button stays in the same frame when the game starts. 
+
+<img width="534" alt="Screen Shot 2022-03-01 at 9 57 30 AM" src="https://user-images.githubusercontent.com/71720380/156113648-5c4aa1c4-7319-4046-84b5-9eb60fb77149.png">
+<img width="534" alt="Screen Shot 2022-03-01 at 9 56 52 AM" src="https://user-images.githubusercontent.com/71720380/156113659-56313ec9-48e9-4ae6-80c4-2985314d5e9f.png">
+
+An idea arised that it might be useful to have a navigation bar in top right corner. 
+
