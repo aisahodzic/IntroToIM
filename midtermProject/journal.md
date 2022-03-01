@@ -55,3 +55,10 @@ I tried putting the navigation bar in the upper right corner, but it appeared mo
 <img width="627" alt="Screen Shot 2022-03-01 at 11 19 41 AM" src="https://user-images.githubusercontent.com/71720380/156123608-cbeee0af-1154-49fd-a33f-414726b9edc2.png">
 
 
+**Update** 
+
+I developed two important features: the bouncer can be moved using arrow keys with keyIsDown function. KeyIsDown is amazing, since it allows the user to continusouly move bouncer all the time until the key is released. 
+Another feature is score counter, which increases every time when the bouncer hits the ball. 
+
+<img width="627" alt="Screen Shot 2022-03-01 at 2 33 05 PM" src="https://user-images.githubusercontent.com/71720380/156153432-cc16dd4a-5030-40e8-875f-ba633593b857.png">
+
