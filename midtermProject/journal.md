@@ -37,6 +37,8 @@ Tests are attached above in the tests.js file. More tests are to be attached as 
 
 **Progress**
 
+**Initial development**
+
 I have started with developing functionalities first, as I predict that will be a harder part. I will later choose fonts and colors to be used. 
 The first functionality I started with is adding the "Start" button, that changes Display - from initial canvas with instructions to canvas of playing the game. One of the first issues that arised is developing an idea of where to position the start and restart buttons, as the start button stays in the same frame when the game starts. 
 
@@ -44,4 +46,12 @@ The first functionality I started with is adding the "Start" button, that change
 <img width="534" alt="Screen Shot 2022-03-01 at 9 56 52 AM" src="https://user-images.githubusercontent.com/71720380/156113659-56313ec9-48e9-4ae6-80c4-2985314d5e9f.png">
 
 An idea arised that it might be useful to have a navigation bar in top right corner. 
+
+**Update** 
+
+I tried putting the navigation bar in the upper right corner, but it appeared more natural to have it at the bottom. An image is uploaded so that it does not cover last 70px of height, which give an illusion of navigation bar represented by background color of either red (for beginning canvas) or yellow ( for game canvas ) . I reset the balls such that they never cross to the navigation bar, and relocated start button to now belong to the navigation. 
+
+<img width="627" alt="Screen Shot 2022-03-01 at 11 19 36 AM" src="https://user-images.githubusercontent.com/71720380/156123600-5a33cce4-f636-4596-9787-4f8fdccffbf9.png">
+<img width="627" alt="Screen Shot 2022-03-01 at 11 19 41 AM" src="https://user-images.githubusercontent.com/71720380/156123608-cbeee0af-1154-49fd-a33f-414726b9edc2.png">
+
 
