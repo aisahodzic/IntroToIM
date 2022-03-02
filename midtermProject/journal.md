@@ -70,3 +70,9 @@ Making a restart screen such that when the ball touches the ground, restart scre
 <img width="627" alt="Screen Shot 2022-03-01 at 3 37 47 PM" src="https://user-images.githubusercontent.com/71720380/156162674-3edc476e-0db5-4aa1-af2b-e0681f3b74ed.png">
 
 
+**Update** 
+Most of changes by now were a code, so I coulnd't visually represent the changes, for example that I put my bouncing balls in an array instead of creating them each on their own. Now I found photos for my covid balls and the mask for the bouncer - however I really can't find a mask with transparent background. I tried multiple photos but this is the best I could find. I'll keep looking. 
+
+<img width="609" alt="Screen Shot 2022-03-02 at 5 23 23 PM" src="https://user-images.githubusercontent.com/71720380/156370318-2530705d-1745-4952-a3f2-b0e651bcdb03.png">
+
+
