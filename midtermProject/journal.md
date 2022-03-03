@@ -98,3 +98,24 @@ Adding sounds is one of the requirements, and I was thinking whether to add a ba
 **Update** 
 
 The biggest challenge was show to 1. shift between the screens and 2. how to restart the game with just a button click. This was actually very complicated and dragged a sea of unexpected error that I needed to solve. For example, the score would either stay as 0 or would not reset to 0 once the game was done. Similarly, once restarted, there would either be 0 covid-particles, or the button would just add the number of covid-particles. For example, it I played with 3, and clicked restart, it would show me 6 covid-particles, meaning the game hasn't been restarted properly. 
+
+With the code below, I managed to resolve most of the errors.
+
+```
+function draw() {
+  // Display the contents of the current screen
+  if (currGameScreen == 0) {
+
+    initScreen();
+    buttonText="Start";
+  } else if (currGameScreen == 1) {
+    gameScreen();
+        buttonText="Restart";
+  } else if (currGameScreen == 2) {
+    gameOverScreen();
+        buttonText="Restart";
+  }}
+  
+ ```
+ 
+ I divided my game into 3 screens -  _currGameScreen == 0_ is an initial screen with welcome message and instructions that will activate _initScreen()_ function , _currGameScreen == 1_ screen calls _gameScreen()_ that will be activated to have the game on and _currGameScreen == 2_ for the game over screen and activates _gameOverScreen()_ when the user loses the game.
