@@ -83,6 +83,10 @@ Now I have been working on the initial screen. I have added instructions for pla
 I have done the similar work for the game-over screen. The individuals were cropped out and posted on white canvas on the right-hand side to leave white space for game over message, final score, and invitation to restart. I have also added 'Restart' button in the game screen so that the user can restart the game while playing if they wish to do so, instead of waiting to lose and being able to restart only then. 
 I have been exploring different fonts, and settled for _DebugFont.otf_ font that I found at https://ifonts.xyz/debug-font.html as it looks pretty game-y to me! 
 
+```
+  DebugFont = loadFont("DebugFont.otf");
+```
+
 The initial screen now: 
 
 <img width="637" alt="Screen Shot 2022-03-03 at 10 49 24 AM" src="https://user-images.githubusercontent.com/71720380/156512128-f39933ef-7881-4e0b-a1e6-390cca6b007b.png">
@@ -94,6 +98,10 @@ The game-over screen now:
 **Update** 
 
 Adding sounds is one of the requirements, and I was thinking whether to add a background song throughtout the game. Once I tried it I realized that's a bit overwhelming. I looked for something calmer and simpler, and realized that there is a space to add a sound each time the mask bounces off the covid particle. I looked for bounce-y sounds and found _sfx-boing8.mp3_ at https://www.fiftysounds.com/royalty-free-music/boing-sound-effects.html. The site is really good if you are looking for short, simple sounds to advance your interactive component rather than looking for whole songs!
+
+```
+  song = loadSound('sfx-boing8.mp3');
+```
 
 **Update** 
 
@@ -119,3 +127,14 @@ function draw() {
  ```
  
  I divided my game into 3 screens -  _currGameScreen == 0_ is an initial screen with welcome message and instructions that will activate _initScreen()_ function , _currGameScreen == 1_ screen calls _gameScreen()_ that will be activated to have the game on and _currGameScreen == 2_ for the game over screen and activates _gameOverScreen()_ when the user loses the game.
+ 
+```
+function restart() {
+  score = 0;
+  currGameScreen = 1;
+  setup();
+}
+```
+The restart function helped a lot in restarting the game. It's imporatnt the the score is restarted only when this function is called, and it also changes the screen to the gaming screen. This function is only called once the restart button is called and this button is available in the 2nd and 3nd screen - which are the gaming screen and the game-over screen. It calls the setup function again which restores the very initial setup of the game. 
+
+
