@@ -71,8 +71,30 @@ Making a restart screen such that when the ball touches the ground, restart scre
 
 
 **Update** 
+
 Most of changes by now were a code, so I coulnd't visually represent the changes, for example that I put my bouncing balls in an array instead of creating them each on their own. Now I found photos for my covid balls and the mask for the bouncer - however I really can't find a mask with transparent background. I tried multiple photos but this is the best I could find. I'll keep looking. 
 
 <img width="609" alt="Screen Shot 2022-03-02 at 5 23 23 PM" src="https://user-images.githubusercontent.com/71720380/156370318-2530705d-1745-4952-a3f2-b0e651bcdb03.png">
 
 
+**Update** 
+
+Now I have been working on the initial screen. I have added instructions for playing and chosen a background image. For the background image, I have edited it in post-production to position the two individuals in the sides I want and to clear the white space on the right hand side so that the text can be readable. 
+I have done the similar work for the game-over screen. The individuals were cropped out and posted on white canvas on the right-hand side to leave white space for game over message, final score, and invitation to restart. I have also added 'Restart' button in the game screen so that the user can restart the game while playing if they wish to do so, instead of waiting to lose and being able to restart only then. 
+I have been exploring different fonts, and settled for _DebugFont.otf_ font that I found at https://ifonts.xyz/debug-font.html as it looks pretty game-y to me! 
+
+The initial screen now: 
+
+<img width="637" alt="Screen Shot 2022-03-03 at 10 49 24 AM" src="https://user-images.githubusercontent.com/71720380/156512128-f39933ef-7881-4e0b-a1e6-390cca6b007b.png">
+
+The game-over screen now: 
+
+<img width="637" alt="Screen Shot 2022-03-03 at 10 49 41 AM" src="https://user-images.githubusercontent.com/71720380/156512170-828a299d-dd57-4743-9bd7-0f163a40fe68.png">
+
+**Update** 
+
+Adding sounds is one of the requirements, and I was thinking whether to add a background song throughtout the game. Once I tried it I realized that's a bit overwhelming. I looked for something calmer and simpler, and realized that there is a space to add a sound each time the mask bounces off the covid particle. I looked for bounce-y sounds and found _sfx-boing8.mp3_ at https://www.fiftysounds.com/royalty-free-music/boing-sound-effects.html. The site is really good if you are looking for short, simple sounds to advance your interactive component rather than looking for whole songs!
+
+**Update** 
+
+The biggest challenge was show to 1. shift between the screens and 2. how to restart the game with just a button click. This was actually very complicated and dragged a sea of unexpected error that I needed to solve. For example, the score would either stay as 0 or would not reset to 0 once the game was done. Similarly, once restarted, there would either be 0 covid-particles, or the button would just add the number of covid-particles. For example, it I played with 3, and clicked restart, it would show me 6 covid-particles, meaning the game hasn't been restarted properly. 
