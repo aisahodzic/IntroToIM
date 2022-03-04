@@ -1,3 +1,8 @@
+// Aisha Hodzic
+// Midterm project - Mask-up Game
+// Intro to IM Spring 2022
+// 4th March 2022
+
 //scoreVal keeps the score record and increases when balls touch the bouncer.
 let scoreVal = 0;
 // currGameScreen is initial screen, look up draw() function to see the use and the rest of the screens
