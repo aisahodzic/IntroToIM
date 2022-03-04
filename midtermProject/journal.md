@@ -201,3 +201,19 @@ function restart() {
 The restart function helped a lot in restarting the game. It's imporatnt the the score is restarted only when this function is called, and it also changes the screen to the gaming screen. This function is only called once the restart button is called and this button is available in the 2nd and 3nd screen - which are the gaming screen and the game-over screen. It calls the setup function again which restores the very initial setup of the game. 
 
 
+
+
+**Final conclusion and video** 
+
+From  February 26th, UAE government eased COVID-19 restrictions, including to mandatory face masks in public places. However, COVID-19 remains a health threat and should still be treated as such. This is especially true for covid-19 Omicron variant, which remains high in many countries. Covid-19 masks should be used as part of a comprehensive strategy of measures to suppress transmission and save lives. When COVID-19 is spreading in your community, we should stay safe by taking some simple precautions, such as physical distancing and wearing a mask. 
+
+This game is a simple reminder that covid is still circulating in our communities, and that masks - especially medical ones, help in reducing the adverse effects. I have created a visual and audio 'illusion' of masks bouncing of the covid particles, which could help understand the reasoning behind the importance of masks. The visual effect is very important, especially for younger generations, in order to create a sense of powerful value of wearing a mask. I used the symbols to better represent the idea, throught importing images of checemical structure of covid-partical and a medical mask, togheter with caricatures of masked people. The bouncing sound improves the experience of 'rejecting' the particles from proliferating futher into the community. The user's ability to shift the mask with left and right keys gives a sense of control in handling the situation when having the right means with us - such as masks - that can protect us. 
+
+I loved playing a game because it is a simple and relaxing methaphore for our current situation, as the COVID restrictions are slowly being eased, and the mask wearing is slowly evolving into an option rather than a rule. As my aim was to remind us on the significance and influence of masks on covid-prevention in a creative, entertaning and relaxed manner, I believed that I have succesfully achieved this goal. Stay safe! 
+
+
+**Video** 
+https://user-images.githubusercontent.com/71720380/156759503-57100b99-4bf0-4ef2-a6a0-a97a9c9ed668.mov
+
+
+
