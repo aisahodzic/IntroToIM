@@ -197,10 +197,23 @@ function restart() {
   currGameScreen = 1;
   setup();
 }
+
 ```
 The restart function helped a lot in restarting the game. It's imporatnt the the score is restarted only when this function is called, and it also changes the screen to the gaming screen. This function is only called once the restart button is called and this button is available in the 2nd and 3nd screen - which are the gaming screen and the game-over screen. It calls the setup function again which restores the very initial setup of the game. 
 
+**Final screens** 
 
+Initial screen - game instructions 
+
+<img width="575" alt="Screen Shot 2022-03-04 at 4 14 45 PM" src="https://user-images.githubusercontent.com/71720380/156761784-59c6217a-3e34-4720-9d43-3c1ce1dda143.png">
+
+Gaming screen
+
+<img width="575" alt="Screen Shot 2022-03-04 at 4 14 51 PM" src="https://user-images.githubusercontent.com/71720380/156761817-d33124c0-6b07-4e42-a9b9-a793590f537a.png">
+
+Game-over and restart screen 
+
+<img width="575" alt="Screen Shot 2022-03-04 at 4 14 45 PM" src="https://user-images.githubusercontent.com/71720380/156761835-c56c6d17-c537-439d-b73d-16de740283c8.png">
 
 
 **Final conclusion and video** 
@@ -213,6 +226,8 @@ I loved playing a game because it is a simple and relaxing methaphore for our cu
 
 
 **Video** 
+
+
 https://user-images.githubusercontent.com/71720380/156759503-57100b99-4bf0-4ef2-a6a0-a97a9c9ed668.mov
 
 
