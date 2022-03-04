@@ -213,7 +213,8 @@ Gaming screen
 
 Game-over and restart screen 
 
-<img width="575" alt="Screen Shot 2022-03-04 at 4 14 45 PM" src="https://user-images.githubusercontent.com/71720380/156761835-c56c6d17-c537-439d-b73d-16de740283c8.png">
+<img width="575" alt="Screen Shot 2022-03-04 at 4 14 56 PM" src="https://user-images.githubusercontent.com/71720380/156761979-f6cea29f-5b68-4963-8198-fb7045dcdc04.png">
+
 
 
 **Final conclusion and video** 
