@@ -232,4 +232,9 @@ I loved playing a game because it is a simple and relaxing methaphore for our cu
 https://user-images.githubusercontent.com/71720380/156759503-57100b99-4bf0-4ef2-a6a0-a97a9c9ed668.mov
 
 
+**User Feedback** 
+
+I asked to of my friends to play the game to get a better sense of how well have I implemented the concepts of affordances, signifiers and if the game is actually intuitive and engaging. They loved the game and found it very simple to navigate. This is mosly to the very common nature of the game, and the learned behavior of moving a bouncer left and right with left and right arrow keys. When I asked for suggestions, they agreed the game is fun and if I was to upgrade, it would be engaging to have different levels offered. For example, if you cross certain number of points, you will jump to a next level which is more difficult. I agree that this would be a great way to keep a user engaged thoughtout time. 
+
+
 
