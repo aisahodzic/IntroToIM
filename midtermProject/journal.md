@@ -234,7 +234,14 @@ https://user-images.githubusercontent.com/71720380/156759503-57100b99-4bf0-4ef2-
 
 **User Feedback** 
 
-I asked to of my friends to play the game to get a better sense of how well have I implemented the concepts of affordances, signifiers and if the game is actually intuitive and engaging. They loved the game and found it very simple to navigate. This is mosly to the very common nature of the game, and the learned behavior of moving a bouncer left and right with left and right arrow keys. When I asked for suggestions, they agreed the game is fun and if I was to upgrade, it would be engaging to have different levels offered. For example, if you cross certain number of points, you will jump to a next level which is more difficult. I agree that this would be a great way to keep a user engaged thoughtout time. 
+I asked to of my friends to play the game to get a better sense of how well have I implemented the concepts of affordances, signifiers and if the game is actually intuitive and engaging. They loved the game and found it very simple to navigate. This is mosly to the very common nature of the game, and the learned behavior of moving a bouncer left and right with left and right arrow keys. When I asked for suggestions, they agreed the game is fun and if I was to upgrade, it would be engaging to have different levels offered. For example, if you cross certain number of points, you will jump to a next level which is more difficult. I agree that this would be a great way to keep a user engaged thoughtout time. Another future improvement suggestion was to create a option to 'get vaccinated' in the game so that the user becomes even more resistant to catching the Covid. This would take away from the initial concept of reminding people of the value of the masks, but could be beneficial in enhancing a general understanding of the importance of both vaccines and masks.
+
+A more applicable feedback was regarding the instructions. A friend that played the game suggested that many people don't read the instructions and hence, a visual might be better signifier of playing instructions. I searched for ways to represnt the instrucitons visually, and was thinking that if a person was to just have a glimpse at the initial screen - what should they remember? We agreed that adding an image of right and left arrow keys, as the main playing medium, would be the most effective visual. Hence, I added the following into the initial screen: 
 
 
+<img width="359" alt="Screen Shot 2022-03-09 at 12 41 09 PM" src="https://user-images.githubusercontent.com/71720380/157404985-0edd0150-cf97-4860-94d7-a4c9aa475985.png">
+
+The final initial screen now looks like this: 
+
+<img width="612" alt="Screen Shot 2022-03-09 at 12 41 17 PM" src="https://user-images.githubusercontent.com/71720380/157405008-95958823-e07b-42bf-9348-55fe1ca3ee3c.png">
 
