@@ -23,6 +23,8 @@ function preload() {
   // covid particles and mask images
   covid_ball = loadImage("covid_ball.png");
   mask_bouncer = loadImage("mask8.png");
+   // left and right key images
+  keys = loadImage("keys.png");
   // load the font to be Debug used
   DebugFont = loadFont("DebugFont.otf");
   // load the sound of the bouncing effect
@@ -85,16 +87,25 @@ function initScreen() {
   textAlign(CENTER);
   textFont(DebugFont, 30);
   // welcome test and gaming instructions
-  text("MASK UP!", 30, 140, 400, 600);
+  text("MASK UP!", 30, 100, 400, 600);
   textFont(DebugFont, 20);
   text(
-    "Welcome to Mask Up game! \n\n While Covid particales are flowing in the air, you need to avoid them with your mask! The goal is to stay masked, and protected from Covid for as long as possible. \n\n You can move your mask with left and right arrow keys.  Extra points if you put a mask right before it touches the ground and barely escape the covid! \n\nOnce a Covid particle falls on the ground where a human is chilling, the game is over.",
+    "Welcome to Mask Up game! \n\n Covid particales are flowing in the air, and you need to avoid them with your mask! Stay masked and protected from Covid for as long as possible. \n\n Move your mask with left and right arrow keys.",
     30,
-    170,
+    150,
     400,
     600
   );
-  text("Click the START button to start the Mask Up game!", 30, 640, 500, 600);
+  image(keys, 200, 305, 80, 80);
+    text(
+    "Extra points if you put a mask right before Covid touches the ground and barely escape the Covid! \n\nOnce a Covid particle falls on the ground, the game is over.",
+    30,
+    390,
+    400,
+    600
+  );
+  textFont(DebugFont, 25);
+  text("Click the START button to play Mask Up!", 30, 640, 500, 600);
 }
 
 // gameScreen() is the main function for the 2nd screen in which the game is played
