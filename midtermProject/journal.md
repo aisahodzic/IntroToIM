@@ -262,3 +262,13 @@ Thus, comments from breakout room and letting our IM-colleagues play the game pr
 
 As you can notice, now we have more 'covid' in the air (unfortunate but also more realistic). I like the visual of the human and the mask so much - it's really funny how it turned out as if the mask if an actually umbrella against the falling covid particles. I believe this graphic contributes a lot to the initial goal of visualizing the importance of the mask, as it captures a real human and inspires interpretations of how the mask is making sure that we stay safe. 
 
+
+
+**Link for playing** 
+https://editor.p5js.org/ah4601/full/8BQfYsl6q
+
+
+
+**Video #2** 
+https://user-images.githubusercontent.com/71720380/157626805-876993e4-c61d-45fc-bd2c-25df744fb0d5.mov
+
