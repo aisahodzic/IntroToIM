@@ -245,3 +245,20 @@ The final initial screen now looks like this:
 
 <img width="612" alt="Screen Shot 2022-03-09 at 12 41 17 PM" src="https://user-images.githubusercontent.com/71720380/157405008-95958823-e07b-42bf-9348-55fe1ca3ee3c.png">
 
+
+**User Feedback #2** 
+
+After talking in the breakout rooms during the class and letting my classmates play the game, another insightful reflection was brought up. While playing the game, one of the classmates expressed that it would be more realistic to have a bit more covid-particles in the air. I agreed, and increased the number of particles from 3 to 5. I tried adding more, but that would make the game much more complicated and the user couldn't stay long in the game. 
+
+Then, another comment came with the question - " Are we trying to catch covid with the mask? ". With previous observation that users usually don't read much of the playing instructions, this was yet another confirmation of that observation. However, it realized that the positioning and orientation of the mask could make it seem like we are "fetching" covid due to the structure and pose of the mask. 
+I had to think of another visualization. Something that would really signal 'bouncing' of the mask while protecting a human. I needed to make use of the outher side of the mask, rather than the inside one - because using the inside of the mask lead the user to believe that we are 'fetching' covid. I had an idea of include a human sitting below a mask that is protecting it like a shielf or an umbrella. After some time of finding photos, editing, cropping and resizing in post-production, I created a following visual that acts as a bouncer - keep in mind that the human moves with the mask: 
+
+
+<img width="562" alt="girl_mask" src="https://user-images.githubusercontent.com/71720380/157623601-d22f4e93-df39-486e-af79-d980f4b46329.png">
+
+Thus, comments from breakout room and letting our IM-colleagues play the game proved to be very useful. As students from the same class, we know which things are achievable and how to provide helpful feedback while playing the game. Mentioned changes lead to the final game screen to look like the following: 
+
+<img width="640" alt="Screen Shot 2022-03-10 at 12 25 30 PM" src="https://user-images.githubusercontent.com/71720380/157624409-55069284-9925-4c5c-ad51-499efb61966d.png">
+
+As you can notice, now we have more 'covid' in the air (unfortunate but also more realistic). I like the visual of the human and the mask so much - it's really funny how it turned out as if the mask if an actually umbrella against the falling covid particles. I believe this graphic contributes a lot to the initial goal of visualizing the importance of the mask, as it captures a real human and inspires interpretations of how the mask is making sure that we stay safe. 
+
