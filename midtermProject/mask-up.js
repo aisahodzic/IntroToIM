@@ -1,14 +1,9 @@
-// Aisha Hodzic
-// Midterm project - Mask-up Game
-// Intro to IM Spring 2022
-// 4th March 2022
-
 //scoreVal keeps the score record and increases when balls touch the bouncer.
 let scoreVal = 0;
 // currGameScreen is initial screen, look up draw() function to see the use and the rest of the screens
 let currGameScreen = 0;
 // QUANTITY is the nubmer of Covid-particles / balls used in the game
-let QUANTITY = 3;
+let QUANTITY = 5;
 // buttonText is the text that will be displayed in a button, typically varies between 'start' and 'restart' depending on the screen
 let buttonText;
 // bouncing balls will be stored in an array instead of creating them each on their own
@@ -22,9 +17,7 @@ function preload() {
   end_image = loadImage("cov2.png");
   // covid particles and mask images
   covid_ball = loadImage("covid_ball.png");
-  mask_bouncer = loadImage("mask8.png");
-   // left and right key images
-  keys = loadImage("keys.png");
+  mask_bouncer = loadImage("girl_mask.png");
   // load the font to be Debug used
   DebugFont = loadFont("DebugFont.otf");
   // load the sound of the bouncing effect
@@ -87,25 +80,16 @@ function initScreen() {
   textAlign(CENTER);
   textFont(DebugFont, 30);
   // welcome test and gaming instructions
-  text("MASK UP!", 30, 100, 400, 600);
+  text("MASK UP!", 30, 140, 400, 600);
   textFont(DebugFont, 20);
   text(
-    "Welcome to Mask Up game! \n\n Covid particales are flowing in the air, and you need to avoid them with your mask! Stay masked and protected from Covid for as long as possible. \n\n Move your mask with left and right arrow keys.",
+    "Welcome to Mask Up game! \n\n While Covid particales are flowing in the air, you need to avoid them with your mask! The goal is to stay masked, and protected from Covid for as long as possible. \n\n You can move your mask with left and right arrow keys.  Extra points if you put a mask right before it touches the ground and barely escape the covid! \n\nOnce a Covid particle falls on the ground where a human is chilling, the game is over.",
     30,
-    150,
+    170,
     400,
     600
   );
-  image(keys, 200, 305, 80, 80);
-    text(
-    "Extra points if you put a mask right before Covid touches the ground and barely escape the Covid! \n\nOnce a Covid particle falls on the ground, the game is over.",
-    30,
-    390,
-    400,
-    600
-  );
-  textFont(DebugFont, 25);
-  text("Click the START button to play Mask Up!", 30, 640, 500, 600);
+  text("Click the START button to start the Mask Up game!", 30, 640, 500, 600);
 }
 
 // gameScreen() is the main function for the 2nd screen in which the game is played
@@ -213,9 +197,9 @@ class MovingCircle {
   constructor(xpos, ypos) {
     this.x = xpos;
     this.y = ypos;
-    // XrandomNum and YrandomNum randomly choosen between (-3, -3.3) and (3, 3.3) for the ball speed, hence 2 numbers are stored, one positive one negative
-    let XrandomNum = [random(-3, -3.3), random(3, 3.3)];
-    let YrandomNum = [random(-3, -3.3), random(3, 3.3)];
+    // XrandomNum and YrandomNum randomly choosen between (-2, -3.3) and (2, 3.3) for the ball speed, hence 2 numbers are stored, one positive one negative
+    let XrandomNum = [random(-2, -3.3), random(2, 3.3)];
+    let YrandomNum = [random(-2, -3.3), random(2, 3.3)];
 
     // now choose the number at random from the 2 numbers in each array and assign it to be the ball speed in either x or y direction
     this.xSpeed = random(XrandomNum);
