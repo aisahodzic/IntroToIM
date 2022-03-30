@@ -11,6 +11,7 @@ Once I had my working idea, I was ready to start working. I went to IM lab to bo
 <img width="314" alt="Screen Shot 2022-03-30 at 10 54 13 PM" src="https://user-images.githubusercontent.com/71720380/160909760-818ef320-520d-4ba8-9f1e-d6cff1387bec.png">
 
 **Discoveries**
+
 Copper tape is so cool! It almost felt like magic when we connect two different wires, and the LED lamps lights up. Using copper tape to do so is even cooler because the two wires are not touching directly, yet we are able to light up a lamp! 
 
 
@@ -22,6 +23,8 @@ Copper tape is so cool! It almost felt like magic when we connect two different 
 
 **Video**
 
-https://user-images.githubusercontent.com/71720380/160870258-d8c95a48-8b05-4b13-ad96-aaca365e7c23.MOV
+
+https://user-images.githubusercontent.com/71720380/160910857-80d1d448-226b-4a68-be75-ce965e042b59.MOV
+
 
 
