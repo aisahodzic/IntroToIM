@@ -9,6 +9,8 @@ This project uses a potentiometer as analog sensor and at a button switch as a d
 I first started working with the potentiometer. I searched for the Morse code alphabet to find out how to spell my name using Morse code. I revised and built up upon the AnalogRead example that we have been doing in the class, and combined it with a digitalWrite for turning on the LED. 
 
 ![morse](https://user-images.githubusercontent.com/71720380/161603080-560e024a-b66c-46b0-9184-e90626083101.png)
+![IMG_8906](https://user-images.githubusercontent.com/71720380/161616854-b2420d24-e1cf-4761-b5a1-da5b6ce7217b.jpeg)
+
 
 Arduino with analog sensor 
 ![IMG_8895](https://user-images.githubusercontent.com/71720380/161613026-19fca64a-7e80-4546-b0be-d59cfeedd0db.jpeg)
@@ -46,6 +48,7 @@ I played around with digital and analog pins and observed how sensors perform di
 **Schematic**
 
 
+![IMG_8905](https://user-images.githubusercontent.com/71720380/161616828-d76f3933-515a-46b8-95d0-c67b0b8137d9.jpeg)
 
 
 
