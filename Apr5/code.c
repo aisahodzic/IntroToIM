@@ -84,3 +84,46 @@ void loop() {
     
   }
 }
+
+
+##CODE $2 for button switch 
+
+int led = 9;           // LED is on pin 9; it has to be PWM capable pin AS ~9
+int brightness = 0;    // led Brightness
+int interval = 5;    // interval to reduce LED brightness  
+
+void setup() {
+
+  pinMode(led, OUTPUT);
+  pinMode(4, INPUT);
+  Serial.begin(9600);
+}
+
+void loop() {
+  
+  int switchPosition = digitalRead(4); //read the state of the button
+  analogWrite(led, brightness);
+  Serial.println(brightness);
+
+  if (switchPosition == HIGH) { //button is pressed
+    analogWrite(led, brightness);
+
+      if (brightness < 255) {
+       brightness = brightness + interval;}
+
+  // change the brightness by the amount set in interval
+  
+
+  delay(50);
+  }
+else  {
+    if (brightness != 0) {
+       brightness = brightness - interval;}
+    analogWrite(8, brightness);    //button released
+    delay(50);
+    if (brightness==0){
+      delay(1000);
+    }
+
+  }
+}
