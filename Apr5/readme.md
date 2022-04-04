@@ -16,10 +16,15 @@ After the Morse code was working properly, I first wanted to develop a program w
 I started exploring a couple of examples from Arduino to get inspired. The example of Fade (https://www.arduino.cc/en/Tutorial/BuiltInExamples/Fade) proved to be pretty interesting. It gave me an idea such that the program should increase the brightness to maximum when the button is pressed (and held) and reduce the brightness to minimum when button is released. This seemed like an elegant way to incoorporate my wish to have 1 button that would both increment and decrement the brightness - but without much clicking. So I started to work with this plan in mind. 
 
 
-
-
-Pictures
 **Video**
+
+Digital sensor only - https://vimeo.com/manage/videos/695828597
+
+Analog sensor only - https://vimeo.com/manage/videos/695828757
+
+Final Version - https://vimeo.com/manage/videos/695828470
+
+
 **Problems**
 
 I wanted to spell my name correctly in my native spelling as 'Aiša' to do the Morse code section, but couldn't find a Morse code for non-English alphabet. This is something I would like to change in the code in case I find the alternative.  
