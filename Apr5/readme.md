@@ -10,7 +10,8 @@ I first started working with the potentiometer. I searched for the Morse code al
 
 ![morse](https://user-images.githubusercontent.com/71720380/161603080-560e024a-b66c-46b0-9184-e90626083101.png)
 
-![IMG_8905](https://user-images.githubusercontent.com/71720380/161616828-d76f3933-515a-46b8-95d0-c67b0b8137d9.jpeg)
+
+![IMG_8905](https://user-images.githubusercontent.com/71720380/161617391-f034d81c-d7e0-48f2-9013-4a594899f059.jpeg)
 
 
 
@@ -60,4 +61,4 @@ The breadbord and wires and Arduino are actually pretty aesthetic. I took a coup
 
 ![IMG_8903](https://user-images.githubusercontent.com/71720380/161613049-91093868-be6f-4df0-8e70-89420a1aeb31.jpeg)
 ![IMG_8904](https://user-images.githubusercontent.com/71720380/161613054-76f2b787-c2a4-4113-aafa-39bb750f6485.jpeg)
-![IMG_8893](https://user-images.githubusercontent.com/71720380/161613056-007de082-e617-4560-b290-51e1db6e0b68.jpeg)
+
