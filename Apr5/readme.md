@@ -35,7 +35,8 @@ Analog sensor only - https://vimeo.com/manage/videos/695828757
 Final Version - https://vimeo.com/manage/videos/695828470
 
 ![IMG_8897](https://user-images.githubusercontent.com/71720380/161613039-b2b031ad-a384-48b6-80bc-1a838d8b5528.jpeg)
-![IMG_8896](https://user-images.githubusercontent.com/71720380/161613036-07ac1bcd-57f0-456f-b793-0b9a2133a58d.jpeg)
+
+![IMG_8896](https://user-images.githubusercontent.com/71720380/161617558-287588ae-0e75-473d-b4ca-51417d0fda16.jpeg)
 
 
 **Problems**
