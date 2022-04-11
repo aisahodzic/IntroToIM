@@ -14,8 +14,19 @@ We divided the coding part of the project into main stages:
 **Description of anything that stood out to you**
 
 
-Picture(s)
-Video
+**Picture(s)**
+
+Final version
+![IMG_9116](https://user-images.githubusercontent.com/71720380/162818111-367a4cb2-510f-4087-a276-23babf568350.jpeg)
+![IMG_9115](https://user-images.githubusercontent.com/71720380/162818104-65ad45a6-75df-48bd-84c9-a8c9b0837c6f.jpeg)
+![IMG_9117](https://user-images.githubusercontent.com/71720380/162818115-f92a232d-d281-4d2a-8103-58b2724808a6.jpeg)
+![IMG_9114](https://user-images.githubusercontent.com/71720380/162818118-bdd4ac21-fae6-4c5e-9714-5ba548e4892d.jpeg)
+
+
+**Video**
+
+Playing sounds with buttons - https://vimeo.com/manage/videos/698335460 
+Increasing volume with potentiometer - https://vimeo.com/manage/videos/698336330
 
 **Problems and Discoveries**
 1. A problem we faced initially was that we had to connect all the switches to the 5v so we connected wires from each switch into the negative terminal from which the wire was connected into the 5v
