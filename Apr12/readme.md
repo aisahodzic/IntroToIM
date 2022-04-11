@@ -16,8 +16,11 @@ We divided the coding part of the project into main stages:
 
 Picture(s)
 Video
-Problem(s)
-Discoverie(s)y
+
+**Problems and Discoveries**
+1. A problem we faced initially was that we had to connect all the switches to the 5v so we connected wires from each switch into the negative terminal from which the wire was connected into the 5v
+2. Another problem we faced was not knowing how to control the volume of the buzzer. We first thought that the tone command would have a parameter to control the volume but there wasnt so we learnt how to use the analogwrite command to control the volume of the buzzer
+3. While using the potentiometer for controlling the volume of the buzzer, the volume wasnt initially changing while the potentiometer was turning but we fixed that by putting the analogread command under the while loop
 
 **Schematic**
 ![](https://github.com/aisahodzic/IntroToIM/blob/main/Apr12/schematic.jpg)
