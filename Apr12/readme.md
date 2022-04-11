@@ -18,7 +18,9 @@ Picture(s)
 Video
 Problem(s)
 Discoverie(s)y
-Schematic
+
+**Schematic**
+![](https://github.com/aisahodzic/IntroToIM/blob/main/Apr12/schematic.jpg)
 
 **References to any tutorials**
 
