@@ -16,10 +16,25 @@ We divided the coding part of the project into main stages:
 
 **Picture(s)**
 
+Starting with one button
+![IMG_9122](https://user-images.githubusercontent.com/71720380/162818901-575ea65a-13ee-4446-8150-d3b0805f4b08.jpeg)
+
+
+Connecting all of the buttons
+![IMG_9121](https://user-images.githubusercontent.com/71720380/162818918-471ebdd6-355a-49ad-80ca-001dc3698994.jpeg)
+
+
+Adding the buzzer
+![IMG_9120](https://user-images.githubusercontent.com/71720380/162818928-c486d7bd-08fc-4ea7-b8a2-1e909c8ea1eb.jpeg)
+
+
+Connecting the potentiometer
+![IMG_9117](https://user-images.githubusercontent.com/71720380/162818115-f92a232d-d281-4d2a-8103-58b2724808a6.jpeg)
+
+
 Final version
 ![IMG_9116](https://user-images.githubusercontent.com/71720380/162818111-367a4cb2-510f-4087-a276-23babf568350.jpeg)
 ![IMG_9115](https://user-images.githubusercontent.com/71720380/162818104-65ad45a6-75df-48bd-84c9-a8c9b0837c6f.jpeg)
-![IMG_9117](https://user-images.githubusercontent.com/71720380/162818115-f92a232d-d281-4d2a-8103-58b2724808a6.jpeg)
 ![IMG_9114](https://user-images.githubusercontent.com/71720380/162818118-bdd4ac21-fae6-4c5e-9714-5ba548e4892d.jpeg)
 
 
