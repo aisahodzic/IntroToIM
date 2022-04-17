@@ -32,6 +32,8 @@ https://vimeo.com/manage/videos/700250230
 ![IMG_9297](https://user-images.githubusercontent.com/71720380/163727975-8ab0cc59-e83f-48b2-b452-63e44c0169dc.jpeg)
 
 
+**Schematic**
+![Schematic1](https://user-images.githubusercontent.com/71720380/163733157-1c7fb868-2273-48ef-8f7e-ba3bcce4e303.png)
 
 
 **Ellipse in p5**
@@ -63,5 +65,19 @@ https://vimeo.com/manage/videos/700271946
 
 **Photos**
 ![IMG_9300](https://user-images.githubusercontent.com/71720380/163732154-53653f25-45d1-4057-896e-93579c0f4970.jpg)
+
+**Schematic**
+![Schematic2](https://user-images.githubusercontent.com/71720380/163733142-e4b07861-b129-40ee-8887-279058b95b20.png)
+
+
+**Wind and Gravity**
+
+**Video**
+https://vimeo.com/manage/videos/700276908
+
+
+**Schematic**
+![Schematic3](https://user-images.githubusercontent.com/71720380/163733139-c3b8bd8d-6b3d-43d5-9acd-0fd7076178be.png)
+
 
 
