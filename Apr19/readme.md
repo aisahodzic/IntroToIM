@@ -1,10 +1,12 @@
 
 **Led Brightness**
+
 For this part of the project, we used the minimal example that was given in the class. The main changes that were done were to enable the code to be able to change the brightness of the LED instead of turning the LED off and then on that was in the previous code. The following parts of the code made it possible: 
 
 In the p5js script, modify the code such that the outgoing data is the value of the mouseX from the rectangle.
 
-``` if (mouseIsPressed) {
+``` 
+if (mouseIsPressed) {
     outgoingData = mouseX;
   }
 ```
