@@ -1,0 +1,2 @@
+
+Create a physically interactive system of your choice that relies on a computer for some sort of processing or data analysis. Your focus should be on careful and timely sensing of the relevant actions of the person or people that you’re designing this for, and on clear, prompt, and effective responses. Any interactive system is going to involve systems of listening, thinking, and speaking from both parties. Whether it involves one cycle or many, the exchange should be engaging.
