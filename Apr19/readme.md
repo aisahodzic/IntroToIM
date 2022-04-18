@@ -88,7 +88,7 @@ Originally we did not put this and it caused our wind value to be equal to 0 for
 
 **Video**
 https://www.youtube.com/watch?v=NTzk4fesVME
-(previous attempt - ball is harder to see ) https://vimeo.com/manage/videos/700276908
+https://vimeo.com/manage/videos/700276908 (previous attempt - ball is harder to see ) 
 
 
 **Schematic**
