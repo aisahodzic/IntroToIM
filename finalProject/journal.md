@@ -1,4 +1,4 @@
-**Brain teaser in Colors **
+**Brain teaser in Colors**
 
 While making the piano keyboard in past projects, I got inspired to use the ability of button-switches as a response to screen action. For the final project, I was planning to incoorporate physically interactive system that challenges our perception, reflexes and text-to-color recognition. 
 Hence, I would like to create a game interface that involves fast back-and-forth interaction with Arduino and the screen controlled by p5.js. and immediate response from the user. 
