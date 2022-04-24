@@ -33,7 +33,9 @@ The arduino will have a number of buttons that correspond to the number of color
 **April 24th Update**
 Arduino Code for getting the neopixels strip to work we found at [this website.](https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-use)
 ```
+//Including the Arduino library downloaded from the 'manage libraries' tab
 #include <Adafruit_NeoPixel.h>
+
 int LED_PIN = 7;
 int NUM_LED = 19;
 Adafruit_NeoPixel strip(NUM_LED, LED_PIN, NEO_GRB + NEO_KHZ800);
@@ -48,12 +50,11 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   for (int i = 0; i < 19; i++) { 
-  strip.setPixelColor(i, 255, 173, 1);
-  strip.setBrightness(255);
-  strip.show();
-  delay(500);
+    strip.setPixelColor(i, 255, 173, 1);
+    strip.setBrightness(255);
+    strip.show();
   }
 }
 ```
-https://www.arduino.cc/reference/en/libraries/adafruit-neopixel/
-https://www.google.com/url?sa=i&url=https%3A%2F%2Flearn.adafruit.com%2Fneopixel-painter%2Fwire-planning&psig=AOvVaw0Q51-3k5IjviVdRUrMqnij&ust=1650884729813000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPjEiYHHrPcCFQAAAAAdAAAAABAU![image](https://user-images.githubusercontent.com/98512630/164973538-2d410ecb-767f-4b5a-bb19-16bb3ddc2aac.png)
+Diagram we used as a guide when connecting the neopixels strip to ground, 5V, and a sensing pin on the Arduino:
+https://cdn-learn.adafruit.com/assets/assets/000/030/892/medium800/leds_Wiring-Diagram.png?1456961114
