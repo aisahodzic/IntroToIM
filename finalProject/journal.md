@@ -31,6 +31,7 @@ The arduino will have a number of buttons that correspond to the number of color
 <img width="850" alt="Screen Shot 2022-04-18 at 5 02 34 PM" src="https://user-images.githubusercontent.com/71720380/163812198-672de8ef-be80-426e-b2bf-97536af43734.png">
 
 **April 24th Update**
+
 Arduino Code for getting the neopixels strip to work we found at [this website.](https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-use)
 ```
 //Including the Arduino library downloaded from the 'manage libraries' tab
@@ -57,4 +58,5 @@ void loop() {
 }
 ```
 Diagram we used as a guide when connecting the neopixels strip to ground, 5V, and a sensing pin on the Arduino:
-https://cdn-learn.adafruit.com/assets/assets/000/030/892/medium800/leds_Wiring-Diagram.png?1456961114
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Flearn.adafruit.com%2Fadafruit-neopixel-uberguide%2Fbasic-connections&psig=AOvVaw2-aki1YQv0kBQtb4ColRQo&ust=1650888706910000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPDm7sPWrPcCFQAAAAAdAAAAABAl![image](https://user-images.githubusercontent.com/98512630/164976045-7b54c269-2d80-40cc-b34a-719f50b9a095.png)
