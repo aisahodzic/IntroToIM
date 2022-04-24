@@ -58,5 +58,5 @@ void loop() {
 }
 ```
 Diagram we used as a guide when connecting the neopixels strip to ground, 5V, and a sensing pin on the Arduino:
+![image](https://user-images.githubusercontent.com/98512630/164976064-ba686f72-58e0-4c31-a530-a6d035418965.png)
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Flearn.adafruit.com%2Fadafruit-neopixel-uberguide%2Fbasic-connections&psig=AOvVaw2-aki1YQv0kBQtb4ColRQo&ust=1650888706910000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPDm7sPWrPcCFQAAAAAdAAAAABAl![image](https://user-images.githubusercontent.com/98512630/164976045-7b54c269-2d80-40cc-b34a-719f50b9a095.png)
