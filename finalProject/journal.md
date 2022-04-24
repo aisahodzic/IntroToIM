@@ -29,3 +29,31 @@ The arduino will have a number of buttons that correspond to the number of color
 <img width="687" alt="Screen Shot 2022-04-23 at 4 19 33 PM" src="https://user-images.githubusercontent.com/71720380/164894186-3e036ee3-84fa-415c-9039-7063574d0084.png">
 
 <img width="850" alt="Screen Shot 2022-04-18 at 5 02 34 PM" src="https://user-images.githubusercontent.com/71720380/163812198-672de8ef-be80-426e-b2bf-97536af43734.png">
+
+April 24th Update
+```
+#include <Adafruit_NeoPixel.h>
+int LED_PIN = 7;
+int NUM_LED = 19;
+Adafruit_NeoPixel strip(NUM_LED, LED_PIN, NEO_GRB + NEO_KHZ800);
+
+void setup() {
+  // put your setup code here, to run once:
+  strip.begin();
+  strip.show();
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  for (int i = 0; i < 19; i++) { 
+  strip.setPixelColor(i, 255, 173, 1);
+  strip.setBrightness(255);
+  strip.show();
+  delay(500);
+  }
+}
+```
+https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-use
+https://www.arduino.cc/reference/en/libraries/adafruit-neopixel/
+https://www.google.com/url?sa=i&url=https%3A%2F%2Flearn.adafruit.com%2Fneopixel-painter%2Fwire-planning&psig=AOvVaw0Q51-3k5IjviVdRUrMqnij&ust=1650884729813000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPjEiYHHrPcCFQAAAAAdAAAAABAU![image](https://user-images.githubusercontent.com/98512630/164973538-2d410ecb-767f-4b5a-bb19-16bb3ddc2aac.png)
