@@ -62,6 +62,10 @@ Diagram we used as a guide when connecting the neopixels strip to ground, 5V, an
 
 **Photos of design & development stages**
 
+-> Board Design: finding board of suitable size and proportions and buttons and positioning them on the board. We will need more buttons but could not find them at IM lab
+
+![IMG_9420](https://user-images.githubusercontent.com/71720380/165147355-0822bc82-247b-4410-b877-fc1162ee1c4b.jpeg)
+
 -> Focus on making neopixels work as we identified it as our major challenge
 
 ![IMG_9421](https://user-images.githubusercontent.com/71720380/165146589-b3bfe906-7f32-40e6-b678-ce3a0e67d5a9.jpeg)
