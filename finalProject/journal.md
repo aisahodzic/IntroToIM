@@ -60,3 +60,18 @@ void loop() {
 Diagram we used as a guide when connecting the neopixels strip to ground, 5V, and a sensing pin on the Arduino:
 ![image](https://user-images.githubusercontent.com/98512630/164976064-ba686f72-58e0-4c31-a530-a6d035418965.png)
 
+**Photos of design & development stages**
+
+-> Focus on making neopixels work as we identified it as our major challenge
+
+![IMG_9421](https://user-images.githubusercontent.com/71720380/165146589-b3bfe906-7f32-40e6-b678-ce3a0e67d5a9.jpeg)
+![IMG_9422](https://user-images.githubusercontent.com/71720380/165146598-ada0b027-7ecd-40fc-991a-3d9e9107383c.jpeg)
+![IMG_9423](https://user-images.githubusercontent.com/71720380/165146604-0d182e9d-e6f8-4300-b8a5-3b0f48b19949.jpeg)
+![IMG_9424](https://user-images.githubusercontent.com/71720380/165146607-e5d3d244-704b-49aa-a5a8-2de53ec8da34.jpeg)
+![IMG_9425](https://user-images.githubusercontent.com/71720380/165146610-1a77e324-365b-4d6b-a532-242908a501f3.jpeg)
+![IMG_9426](https://user-images.githubusercontent.com/71720380/165146616-17544ef3-d891-4228-a0d8-d557425ddd76.jpeg)
+![IMG_9427](https://user-images.githubusercontent.com/71720380/165146620-48684162-65a4-4355-b422-dc191ef88812.jpeg)
+![IMG_9428](https://user-images.githubusercontent.com/71720380/165146622-15182ec6-ca8b-4209-b09c-2fd05cf17a53.jpeg)
+
+
+
