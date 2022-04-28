@@ -86,4 +86,10 @@ progress link: https://editor.p5js.org/ah4601/sketches/mWKMl3cAr
 - got new buttons to work with 
 
 
+ 28th April 2022 - evening
  
+ progress link: https://editor.p5js.org/ah4601/sketches/ucNVpn2C8
+ 
+ - figuring out serial communication to work succesfully
+ - connecting big buttons to arduino and sending right information from them 
+ - making a starting game interface on top of the serial communication 
