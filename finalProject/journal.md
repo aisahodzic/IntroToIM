@@ -78,4 +78,12 @@ Diagram we used as a guide when connecting the neopixels strip to ground, 5V, an
 ![IMG_9428](https://user-images.githubusercontent.com/71720380/165146622-15182ec6-ca8b-4209-b09c-2fd05cf17a53.jpeg)
 
 
+28th April 2022
 
+progress link: https://editor.p5js.org/ah4601/sketches/mWKMl3cAr 
+- connected button via Arduino to p5js
+- previous neopixel strip wasn't working so prof. Michael helped us solder a new neopixel strip 
+- got new buttons to work with 
+
+
+ 
