@@ -95,6 +95,7 @@ progress link: https://editor.p5js.org/ah4601/sketches/mWKMl3cAr
  - making a starting game interface on top of the serial communication 
 
 User Testing (Eid Break)
+
 [User Testing Video 1](https://youtube.com/shorts/kEi7z6hKAFc?feature=share)
-[User Testing Video 2](https://youtube.com/shorts/kEi7z6hKAFc?feature=share)
+[User Testing Video 2](https://youtube.com/shorts/fQD0LdSKz2Y?feature=share)
 [User Testing Video 3](https://youtu.be/PeHzxxS8rag)
