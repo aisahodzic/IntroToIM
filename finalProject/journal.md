@@ -97,5 +97,13 @@ progress link: https://editor.p5js.org/ah4601/sketches/mWKMl3cAr
 User Testing (Eid Break)
 
 [User Testing Video 1](https://youtube.com/shorts/kEi7z6hKAFc?feature=share)
+
 [User Testing Video 2](https://youtube.com/shorts/fQD0LdSKz2Y?feature=share)
+
 [User Testing Video 3](https://youtu.be/PeHzxxS8rag)
+
+ What we learned & What We Plan to Change:
+ - Two of our three users successfully played the game, and requested to play it again, suggesting they were engaged and enjoyed the basic concept (this was also reflected in their body language which seemed concentrated on the task at hand and the fast-paced responses). 
+ - One of our users had difficulty playing the game properly even after reading the instructions, so we plan to make the language clearer and maybe even add an example on the instruction screen.
+ - Since this was a very rudimentary version of the game, it was expected that the users would find the design overly simplistic. They requested a more aesthetic visual interface, and they responded positively to our proposed plan of adding an LED strip and creating correct and incorrect sound effects, saying this would "make it more intense" which we took to mean more engaging. Additionally, they unanimously asserted that we paint the fifth button a different color to differentiate it from the other red button.
+ - In the coming week will also attempt to add a losing screen by way of a state machine.
