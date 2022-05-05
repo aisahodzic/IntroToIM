@@ -93,3 +93,8 @@ progress link: https://editor.p5js.org/ah4601/sketches/mWKMl3cAr
  - figuring out serial communication to work succesfully
  - connecting big buttons to arduino and sending right information from them 
  - making a starting game interface on top of the serial communication 
+
+User Testing (Eid Break)
+[User Testing Video 1](https://youtube.com/shorts/kEi7z6hKAFc?feature=share)
+[User Testing Video 2](https://youtube.com/shorts/kEi7z6hKAFc?feature=share)
+[User Testing Video 3](https://youtu.be/PeHzxxS8rag)
