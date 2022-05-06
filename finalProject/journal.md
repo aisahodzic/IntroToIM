@@ -94,6 +94,12 @@ progress link: https://editor.p5js.org/ah4601/sketches/mWKMl3cAr
  - connecting big buttons to arduino and sending right information from them 
  - making a starting game interface on top of the serial communication 
 
+29th April 2022 
+
+- putting buttons on the board
+- assembling Arudino connection wtih Arcade buttons and making serial connection work 
+- connecting all the parts together - the software (p5js) and physical components (Arduino board and gaming board with buttons)
+
 User Testing (Eid Break)
 
 [User Testing Video 1](https://youtube.com/shorts/kEi7z6hKAFc?feature=share)
