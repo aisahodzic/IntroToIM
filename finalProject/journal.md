@@ -113,3 +113,14 @@ User Testing (Eid Break)
  - One of our users had difficulty playing the game properly even after reading the instructions, so we plan to make the language clearer and maybe even add an example on the instruction screen.
  - Since this was a very rudimentary version of the game, it was expected that the users would find the design overly simplistic. They requested a more aesthetic visual interface, and they responded positively to our proposed plan of adding an LED strip and creating correct and incorrect sound effects, saying this would "make it more intense" which we took to mean more engaging. Additionally, they unanimously asserted that we paint the fifth button a different color to differentiate it from the other red button.
  - In the coming week will also attempt to add a losing screen by way of a state machine.
+
+Friday 6th May 2022
+
+Reflecting upon user-testing feedback and incoorporating it into our project:
+- changing the type of the game after user testing - the last tester played our game the other way around and it turned out to be a much more challengng way so we decided to give it a try. She was reading the work and clicking the color that word was representing. 
+- interpret the result ( if your score is stroop_score = 0.259, where do you stand - what does this ressult mean? is it good, average, bad etc ) 
+- paint the magenta button 
+- use LED and incorporate it with the board
+- rewrite instructions to make it more clear  and put an example in
+
+- 
