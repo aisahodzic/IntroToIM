@@ -122,5 +122,3 @@ Reflecting upon user-testing feedback and incoorporating it into our project:
 - paint the magenta button 
 - use LED and incorporate it with the board
 - rewrite instructions to make it more clear  and put an example in
-
-- 
