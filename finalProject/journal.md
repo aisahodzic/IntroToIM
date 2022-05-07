@@ -130,4 +130,11 @@ Make intro screen to be cover the whole display of game interface and adjust the
 
 <img width="878" alt="Screen Shot 2022-05-07 at 10 51 43 AM" src="https://user-images.githubusercontent.com/71720380/167242625-5563a13c-6da6-4646-ba92-fbbd9a27b40a.png">
 
+- made LEDs light up in green when answer is correct
+- work on readme - Tuesday 
+- comment the code - Aisha
+- design the box  - Ryan
+- ask professor which glue to use for LEDs ( tried White glue and school glue, acrylic was all dried out in IM lab) 
+ 
+
 
