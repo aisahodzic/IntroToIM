@@ -120,5 +120,10 @@ Reflecting upon user-testing feedback and incoorporating it into our project:
 - changing the type of the game after user testing - the last tester played our game the other way around and it turned out to be a much more challengng way so we decided to give it a try. She was reading the work and clicking the color that word was representing. 
 - interpret the result ( if your score is stroop_score = 0.259, where do you stand - what does this ressult mean? is it good, average, bad etc ) 
 - paint the magenta button 
-- use LED and incorporate it with the board
+- plan: use LED and incorporate it with the board
+- plan: rewrite instructions to make it more clear  and put an example in
+
+Saturday 7th May 2022
+-  use LED and incorporate it with the board
 - rewrite instructions to make it more clear  and put an example in
+
