@@ -127,3 +127,8 @@ Saturday 7th May 2022
 -  use LED and incorporate it with the board
 - rewrite instructions to make it more clear  and put an example in
 
+Make intro screen to be cover the whole display of game interface and adjust the positioning. 
+
+<img width="878" alt="Screen Shot 2022-05-07 at 10 51 43 AM" src="https://user-images.githubusercontent.com/71720380/167242625-5563a13c-6da6-4646-ba92-fbbd9a27b40a.png">
+
+
