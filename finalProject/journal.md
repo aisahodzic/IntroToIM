@@ -110,8 +110,8 @@ Progress videos:
 - connecting all the parts together - the software (p5js) and physical components (Arduino board and gaming board with buttons)
 
 ![IMG_9498](https://user-images.githubusercontent.com/71720380/167286037-49b4036a-3465-4ce8-b615-ae5a1130f101.jpeg)
-![IMG_9731](https://user-images.githubusercontent.com/71720380/167286046-eb841c2d-9c6a-4d88-9274-b8da621bf9d9.jpeg)
 
+![IMG_9496](https://user-images.githubusercontent.com/71720380/167286256-8428e457-693e-4a74-b7ff-b3c488e35ff3.jpeg)
 
 User Testing (Eid Break)
 
@@ -134,6 +134,8 @@ Reflecting upon user-testing feedback and incoorporating it into our project:
 - paint the magenta button 
 - plan: use LED and incorporate it with the board
 - plan: rewrite instructions to make it more clear  and put an example in
+
+![IMG_9731](https://user-images.githubusercontent.com/71720380/167286046-eb841c2d-9c6a-4d88-9274-b8da621bf9d9.jpeg)
 
 Saturday 7th May 2022
 -  use LED and incorporate it with the board
