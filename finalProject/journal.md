@@ -94,11 +94,24 @@ progress link: https://editor.p5js.org/ah4601/sketches/mWKMl3cAr
  - connecting big buttons to arduino and sending right information from them 
  - making a starting game interface on top of the serial communication 
 
+
+![IMG_9474](https://user-images.githubusercontent.com/71720380/167286074-2d9ef33a-c140-4f74-9f50-76998241f09e.jpeg)
+![IMG_9475](https://user-images.githubusercontent.com/71720380/167286079-92792a1a-5173-4f35-bb81-141dc8991716.jpeg)
+![IMG_9480](https://user-images.githubusercontent.com/71720380/167286080-46a15aa1-d783-479f-bc09-55f97d79da42.jpeg)
+![IMG_9481](https://user-images.githubusercontent.com/71720380/167286082-9788fb5a-e8ee-4beb-b81b-34268f1b924a.jpeg)
+
+Progress videos: 
+
+
 29th April 2022 
 
 - putting buttons on the board
 - assembling Arudino connection wtih Arcade buttons and making serial connection work 
 - connecting all the parts together - the software (p5js) and physical components (Arduino board and gaming board with buttons)
+
+![IMG_9498](https://user-images.githubusercontent.com/71720380/167286037-49b4036a-3465-4ce8-b615-ae5a1130f101.jpeg)
+![IMG_9731](https://user-images.githubusercontent.com/71720380/167286046-eb841c2d-9c6a-4d88-9274-b8da621bf9d9.jpeg)
+
 
 User Testing (Eid Break)
 
@@ -129,6 +142,9 @@ Saturday 7th May 2022
 Make intro screen to be cover the whole display of game interface and adjust the positioning. 
 
 <img width="878" alt="Screen Shot 2022-05-07 at 10 51 43 AM" src="https://user-images.githubusercontent.com/71720380/167242625-5563a13c-6da6-4646-ba92-fbbd9a27b40a.png">
+
+![wp](https://user-images.githubusercontent.com/71720380/167286189-648eedfe-1a8d-4f65-9b0d-74c33dc027ea.jpeg)
+
 
 - made LEDs light up in green when answer is correct
 - work on readme - Tuesday 
