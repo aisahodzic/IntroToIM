@@ -153,6 +153,7 @@ Make intro screen to be cover the whole display of game interface and adjust the
 - comment the code - Aisha
 - design the box  - Ryan
 - ask professor which glue to use for LEDs ( tried White glue and school glue, acrylic was all dried out in IM lab) 
+- in results, write what is a scale of scores i.e. what is a good and what is a bad score
  
 
 
