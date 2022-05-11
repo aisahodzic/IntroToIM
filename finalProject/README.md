@@ -35,11 +35,24 @@ Decision: we decided to signify correct answer in a different way. Each time use
 # Neopixel strip and Arcade buttons
 Neither of us has worked with eopixel strip or Arcade buttons before. This was a very good exercise to learn working with both of these and to discover what they can do. We expected arcade to be complicated and to require 4-wire connection, but actually only 2-wires were enought. Neopixels were a more challenging part. The delays in processing information affected their display greatly - so much that a user can visibly be annoyed that neopixels are late in reacting. One way to minimize this is to remove any serial.println() from the neopixel funciton if possible since they take a lot of time, however the delays can be significant as each neopixel light is lit up individually thought a for-loop. 
 
+# User-testing
+User testing proved to be a very useful part of our project. Our friends were able to identify major flaws in our project. One of them was the introduction screen which did not provide very clear instructions for someone who does not know what stroop effect is. Just one suggestion of adding an exmple of the correct solution such as yellow (fill:green) -> press yellow as now shown on the intial display, improved our user interface a lot. With that, the user experience was much better especially for first time players. This would be something that we, on our own, would not be able to catch as potential flaw. 
+
+
+### Images
+
 <img width="651" alt="Screen Shot 2022-05-11 at 11 49 28 PM" src="https://user-images.githubusercontent.com/71720380/167933696-f476c993-a0dd-4f77-956a-3b118325dc79.png">
-<img width="651" alt="Screen Shot 2022-05-11 at 11 49 11 PM" src="https://user-images.githubusercontent.com/71720380/167933723-1fcdabe1-7c79-4ecd-8149-62e322a82b5b.png">
 <img width="670" alt="Screen Shot 2022-05-11 at 11 48 34 PM" src="https://user-images.githubusercontent.com/71720380/167933729-989d5326-70ea-43da-ba62-cd02ed52c8df.png">
 <img width="878" alt="Screen Shot 2022-05-07 at 10 51 43 AM" src="https://user-images.githubusercontent.com/71720380/167933753-bc79f4ce-2127-4046-bbec-39842db86600.png">
+<img width="651" alt="Screen Shot 2022-05-11 at 11 49 11 PM" src="https://user-images.githubusercontent.com/71720380/167933723-1fcdabe1-7c79-4ecd-8149-62e322a82b5b.png">
 
 
-- References
-- Images 
+### References
+https://en.wikipedia.org/wiki/Stroop_effect
+https://github.com/adafruit/Adafruit_NeoPixel
+https://editor.p5js.org/ah4601/sketches/mWKMl3cAr
+https://www.sensingthecity.com/play-with-arcade-buttons/
+
+
+
+
