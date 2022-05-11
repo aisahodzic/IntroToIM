@@ -85,6 +85,7 @@ progress link: https://editor.p5js.org/ah4601/sketches/mWKMl3cAr
 - previous neopixel strip wasn't working so prof. Michael helped us solder a new neopixel strip 
 - got new buttons to work with 
 
+https://vimeo.com/user92376235
 
  28th April 2022 - evening
  
@@ -147,7 +148,6 @@ Make intro screen to be cover the whole display of game interface and adjust the
 
 ![wp](https://user-images.githubusercontent.com/71720380/167286189-648eedfe-1a8d-4f65-9b0d-74c33dc027ea.jpeg)
 
-
 - made LEDs light up in green when answer is correct
 - work on readme - Tuesday 
 - comment the code - Aisha
@@ -155,5 +155,11 @@ Make intro screen to be cover the whole display of game interface and adjust the
 - ask professor which glue to use for LEDs ( tried White glue and school glue, acrylic was all dried out in IM lab) 
 - in results, write what is a scale of scores i.e. what is a good and what is a bad score
  
+Wednesday, May 11th 
 
+- tried professor's advice to use external power supply 
+- soldered power supply wires and connected to our board
+- unfortunately didnt work. We could not figure out what was not working 
+- rethinking the process of giving positive feedback to the user when they choose the correct answer
+- Decision: we decided to signify correct answer in a different way. Each time user guesses the color correctly, we will display green lights ( green light generally known to be signal for correctness ) and add sound that would be affirmative. 
 
