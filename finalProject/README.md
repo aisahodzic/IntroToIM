@@ -3,7 +3,7 @@ For the finalized version of our project, we slightly tweaked the game concept. 
 
 ### Programs & Circuitry 
 We mostly used P5.js as the visual interface, by making it randomly generate and display the words. We also used it to open the serial connection (using Prof. Aaron's code) as well as process responses entered on the physical interface, since it determines whether the LED strip will light up green and requires the user to press the correct button in order to move on. 
-[P5.js sketch link](https://editor.p5js.org/ryansmith/sketches/xPqYFn1ss)
+[P5.js sketch link.](https://editor.p5js.org/ryansmith/sketches/xPqYFn1ss)
 
 For the Arduino, we primarily had it read input via the buttons, assigning the color of the button to each pin number. In addition, we used it to control the LED strip using the Adafruit Neopixel library.
 
