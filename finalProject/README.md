@@ -39,6 +39,10 @@ Neither of us has worked with eopixel strip or Arcade buttons before. This was a
 User testing proved to be a very useful part of our project. Our friends were able to identify major flaws in our project. One of them was the introduction screen which did not provide very clear instructions for someone who does not know what stroop effect is. Just one suggestion of adding an exmple of the correct solution such as yellow (fill:green) -> press yellow as now shown on the intial display, improved our user interface a lot. With that, the user experience was much better especially for first time players. This would be something that we, on our own, would not be able to catch as potential flaw. 
 
 
+# Video
+https://user-images.githubusercontent.com/98512630/167997129-be7b16e2-299a-4c08-a9f2-748f7778e49f.MOV
+
+
 # Images
 
 <img width="651" alt="Screen Shot 2022-05-11 at 11 49 28 PM" src="https://user-images.githubusercontent.com/71720380/167933696-f476c993-a0dd-4f77-956a-3b118325dc79.png">
